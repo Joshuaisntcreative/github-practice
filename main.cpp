@@ -4,8 +4,8 @@ int main(){
     std::cout << "Hello " << std::endl;
 }
 
-void branch1(){
-    std::cout << "This is an output from branch1" << std::endl;
+void branch2(){
+    std::cout << "This function should now cause a merge conflict" << std::endl;
 }
 
 void anotherFunction(){
